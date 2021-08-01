@@ -3,6 +3,7 @@ CREATE DATABASE Testing_System;
 USE Testing_System;
 
 -- Create table 1: Department
+-- them note
 CREATE TABLE Department (
 	DepartmentID   			INT,
 	DepartmentName 			VARCHAR(50)
